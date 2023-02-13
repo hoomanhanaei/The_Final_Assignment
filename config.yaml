@@ -1,0 +1,2 @@
+depressive_symptoms : '../data/Current depressive symptoms.csv'
+frequency_of_drinking: '../data/Frequency of drinking sugar-sweetened soft drinks.csv'
